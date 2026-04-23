@@ -45,7 +45,7 @@ This project gathers data from **Basketball-Reference** (Stats \& Contracts) and
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/your-username/nba-data-scraper.git](https://github.com/your-username/nba-data-scraper.git)
+git clone https://github.com/julien-croynar/nba-data-scraper.git
 ```
 
 2. Navigate to the project directory:
