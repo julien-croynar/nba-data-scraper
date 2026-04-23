@@ -1,0 +1,34 @@
+# --- Maven ---
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+
+src/main/resources/data/*.json
+
+src/main/resources/images/players/**/*.png
+src/main/resources/images/team/*.png
+
+.DS_Store
+Thumbs.db
+.kotlin/
+.vscode/
+.settings/
+.classpath
+.project
+
+*.log
